@@ -1,0 +1,14 @@
+# Renderer.cpp has literal strings so modifying this will not change Renderer.cpp
+
+#version 330 core
+
+// value representing interpolated vertex
+in vec3 color;
+
+// color to use for fragment
+out vec4 finalColor;
+
+void main()
+{
+  finalColor = vec4(color, 1);
+}

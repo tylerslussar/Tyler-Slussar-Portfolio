@@ -1,0 +1,14 @@
+# Renderer.cpp has literal strings so modifying this will not change Renderer.cpp
+
+#version 330 core
+
+// uniform value representing polygon color
+uniform vec3 pointColor;
+
+// color to use for fragment
+out vec4 finalColor;
+
+void main()
+{
+  finalColor = vec4(pointColor, 1.0);
+}

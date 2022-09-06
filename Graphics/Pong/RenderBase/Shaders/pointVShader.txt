@@ -1,0 +1,15 @@
+# Renderer.cpp has literal strings so modifying this will not change Renderer.cpp
+
+#version 330 core
+
+// Input vertex data, different for all executions of this shader.
+layout(location = 0) in vec3 vPosition;
+
+uniform mat4 projectionEyeMatrix;
+uniform mat4 objectMatrix;
+
+void main()
+{
+  // vertex shader must set gl_Position
+  gl_Position = projectionEyeMatrix * objectMatrix * vec4(vPosition, 1);
+}

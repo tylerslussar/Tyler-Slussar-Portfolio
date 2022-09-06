@@ -1,0 +1,39 @@
+CATEGORY
+
+_assessments is an array of 20 assessment objects
+in assessments dropped() will return true if it dropped
+
+to calculate average in Category::average()
+1. go through array and look for the dropped assessments,
+as they will not be used in calculation
+2. score() from assessment will return score
+3. return the average of that score
+
+
+output operator ?
+output name
+each assessment
+average
+
+void addAssessment(const Assessment &a)
+add assessment to the end of _assessments
+_numberOfAssessments + 1
+
+GRADES
+
+void addCategory(const Category &c)
+add category to the end of _categories
+_numberOfCategories + 1 
+
+
+double computeAverage()
+each category average() 
+
+(0.2 * 86.7 + 0.3 * 90 + 0.3 * 89) / 0.8
+must deal with final being there and not being there
+
+ASSESSMENT
+
+operators _name or _score and compare
+
+

@@ -1,0 +1,78 @@
+﻿<Window x:Class="CapitalUAirlines.SeatSelectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CapitalUAirlines"
+        mc:Ignorable="d"
+        Title="Seat Selection" Height="1000" Width="1800" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="fontStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="seatStyle" TargetType="TextBox">
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="BorderBrush" Value="Black"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Margin" Value="2"/>
+            <Setter Property="Width" Value="35"/>
+            <Setter Property="Height" Value="20"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Column="0" Grid.Row="1" Text="A" FontSize="30" TextAlignment="Center" Margin="170,1,1,1"/>
+        <TextBlock Grid.Column="1" Grid.Row="1" Text="B" FontSize="30" TextAlignment="Center" Margin="70,1,1,1"/>
+        <TextBlock Grid.Column="2" Grid.Row="1" Text="C" FontSize="30" TextAlignment="Center" Margin="1,1,80,1"/>
+        <TextBlock Grid.Column="3" Grid.Row="1" Text="D" FontSize="30" TextAlignment="Center" HorizontalAlignment="Right"/>
+        <TextBlock Grid.Column="4" Grid.Row="1" Text="E" FontSize="30" TextAlignment="Center" Margin="170,1,1,1"/>
+        <TextBlock Grid.Column="5" Grid.Row="1" Text="F" FontSize="30" TextAlignment="Center" Margin="50,1,1,1"/>
+
+        <TextBlock Grid.Column="0" Grid.Row="0" Background="Green" Text="Available Seats" FontSize="25" Width="200" HorizontalAlignment="Center" 
+                   Margin="5" TextAlignment="Center"/>
+        <TextBlock Grid.Column="1" Grid.Row="0" Background="Red" Text="Unavailable Seats" FontSize="25" Width="200" HorizontalAlignment="Center" 
+                   Margin="5" TextAlignment="Center"/>
+        <TextBlock Grid.Column="3" Grid.Row="0" Text="{Binding flightNumber, Mode=OneWay, UpdateSourceTrigger=PropertyChanged, StringFormat=Flight: {0}}" 
+                   FontSize="25" TextAlignment="Right" Margin="2"/>
+        <TextBlock Grid.Column="5" Grid.Row="0" Text="Capital U Airlines" Background="Indigo" Foreground="White" FontSize="35" TextAlignment="Center"/>
+        <Button x:Name="reseat" Grid.Row="4" Grid.Column="5" Margin="5" Content="Reseat" Width="200" FontSize="25" Click="Reseat_Click"/>
+        <Button x:Name="print" Grid.Row="5" Grid.Column="5" Margin="5" Content="Print Tickets" Width="200" FontSize="25" Click="Print_Click"/>
+        
+        <ItemsControl Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="6" ItemsSource="{Binding flightRows}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <local:RowUserControl DataContext="{Binding}"/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+
+        <ItemsControl Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="5" ItemsSource="{Binding allPassengers}" x:Name="groupList">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <local:PassengerGroupUserControl DataContext="{Binding}"/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+
+        <Button Grid.Row="5" Grid.Column="3" x:Name="cancel" Content="Cancel Booking" Width="200" Height="40" FontSize="25" Margin="2" HorizontalAlignment="Center" Click="Cancel_Click"/>
+        <Button Grid.Row="5" Grid.Column="0" x:Name="close" Content="Done" Width="200" Height="40" FontSize="25" Margin="2" HorizontalAlignment="Center" Click="Close_Click"/>
+    </Grid>
+</Window>

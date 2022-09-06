@@ -1,0 +1,28 @@
+﻿<Window x:Class="CapitalUAirlines.ManagerLoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CapitalUAirlines"
+        mc:Ignorable="d"
+        Title="Manager Login" Height="350" Width="600" WindowStartupLocation="CenterScreen" Background="Indigo">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".5*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Text="Manager Login" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"/>
+        <TextBlock Grid.Column="0" Grid.Row="1" Text="Enter Username: " FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White"/>
+        <TextBox x:Name="managName" Grid.Column="1" Grid.Row="1" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="5"/>
+        <TextBlock Grid.Column="0" Grid.Row="2" Text="Enter Password: " FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White"/>
+        <PasswordBox x:Name="managPw" Grid.Column="1" Grid.Row="2" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="5" PasswordChanged="ManagPw_PasswordChanged"/>
+        <Button x:Name="managEnter" Grid.Column="1" Grid.Row="3" Content="Enter" Width="100" Height="30" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Center" Click="ManagEnter_Click" Margin="10" IsDefault="True"/>
+        <Button x:Name="managCancel" Grid.Column="1" Grid.Row="3" Content="Cancel" Width="100" Height="30" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Center" Click="ManagCancel_Click" Margin="10"/>
+    </Grid>
+</Window>

@@ -15,6 +15,7 @@ computer networks and computer security, understood computer graphics, looked in
 explore software design and engineering.
 
 Professors Included:
+
 Dr. Li Feng Ph.D. Associate Professor at Capital University
 
 Dr. David Reed Ph.D. Professor at Capital University

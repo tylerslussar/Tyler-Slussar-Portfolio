@@ -1,0 +1,21 @@
+﻿  Polymesh.cpp
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(12,12): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\fstream(26): message : see declaration of 'std'
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(12,1): error C2873: 'vector': symbol cannot be used in a using-declaration
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(43,5): error C2065: 'vector': undeclared identifier
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(43,12): error C2275: 'GLsizei': illegal use of this type as an expression
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\packages\glew.1.9.0.1\build\native\include\GL\glew.h(266): message : see declaration of 'GLsizei'
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(43,21): error C2065: 'numVertsAndIndices': undeclared identifier
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(57,9): error C2065: 'numVertsAndIndices': undeclared identifier
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(65,13): error C2065: 'numVertsAndIndices': undeclared identifier
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(74,20): error C2065: 'numVertsAndIndices': undeclared identifier
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(78,16): error C2065: 'numVertsAndIndices': undeclared identifier
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(79,16): error C2065: 'numVertsAndIndices': undeclared identifier
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\Polymesh.cpp(84,20): error C2065: 'numVertsAndIndices': undeclared identifier
+  PolymeshSceneRenderer.cpp
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\PolymeshSceneRenderer.cpp(109,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\PolymeshSceneRenderer.cpp(175,97): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\PolymeshSceneRenderer.cpp(231,38): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sluss\OneDrive\Documents\School Documents\JR Cap\Spring\Computer Graphics\Lab 5\PolymeshScene-renderPolymesh\ComputerGraphics\PolymeshSceneRenderer.cpp(243,37): warning C4305: '=': truncation from 'double' to 'float'
+  main.cpp
+  Generating Code...

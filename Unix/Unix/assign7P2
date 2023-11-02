@@ -1,108 +1,0 @@
-Script started on Thu Mar  2 18:56:11 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004h$$mybane    namw e - =Tyler r[?2004l
-zsh: Tyler not found
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hmmyname=Tyler[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004heecho $myname[?2004l
-Tyler
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004heechi o "$mty  yname"[?2004l
-Tyler
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004heecho '[?2004l
-[0m[27m[24m[Jquote> [K[?2004hq ZZZZ  [?2004l
-[0m[27m[24m[Jquote> [K[?2004h'[?2004l
-
-
-
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hr eecho '$mynaem  am  me'[?2004l
-$myname
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hrrwr reas dn only m $myname[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004heecho $mu yname[?2004l
-Tyler
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hmmyname =Chas d[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004heecho $mynae ,e  me[?2004l
-Chad
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hrreadonly mtna   tn  ybane=     namew [?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hmmyban   name=Tyler[?2004l
-zsh: read-only variable: myname
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004heecho $HOME[?2004l
-/Users/tyslu
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004heecho ~[?2004l
-/Users/tyslu
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hlls ~[?2004l
-Applications			Unix Terminal Scripts
-Desktop				bin
-Documents			cpuUsage
-Downloads			eclipse
-Exercises			eclipse-workspace
-Google Drive			hello
-Library				inclassexe5
-Movies				java-2021-12
-Music				java_error_in_pycharm.hprof
-OneDrive			java_error_in_pycharm_15200.log
-Pictures			pizza
-Port				rust
-Public				short
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004heecho $PATH[?2004l
-/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004h$$PATH=/Users/tyslu                $ $PATH=$PATH:~/bin[?2004l
-zsh: no such file or directory: /Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS=/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS:~/bin
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004h$$PS!="[ \u \$ "[?2004l
-zsh: command not found: !=\u $ 
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004h$ $PS!="\u \$ "[P[9C [10D1="\u \$ "[9D[?2004l
-zsh: command not found: %n@%m %1~ %# =\u $ 
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004h$$PS1='\u \$ '[?2004l
-zsh: command not found: %n@%m %1~ %# =\u \$ 
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004h$PS1='\u \$ '[1C \$ '$ \$ '[1C \$ '[1C[1C[1C[1C '# '[1C '[?2004l
-zsh: command not found: %n@%m %1~ %# =\u $  \$ #  
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004h$$PS! 1='\h \$ '[?2004l
-zsh: command not found: %n@%m %1~ %# =\h \$ 
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004h$PS1='\h \$ 'u $  \$ #  '[\u $  \$ #  '[13D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C] '[1C' [?2004l
-zsh: command not found: %n@%m %1~ %# =[\u $  \$ # ]
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004httcsh[?2004l
-[Tylers-MBP:~/Unix Terminal Scripts] tyslu% $PS![K1='\u \$ '
-PS1: Undefined variable.
-[Tylers-MBP:~/Unix Terminal Scripts] tyslu% x[Kexit
-exit
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hvvim c* 8L2[?2004l
-[?1049h[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H"c8L2" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[38;5;130m  1 [m
-[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;5H[?25h[?4m[?25l[m[24;1H[1m-- INSERT --[1;5H[?25h[?25l[m![?25h[?25l[1;5H[K[1;5H[?25h[?25l#[?25h[?25l![?25h[?25l/[?25h[?25lb[?25h[?25li[?25h[?25ln[?25h[?25l/[?25h[?25ln[?25h[?25ln[?25h[?25la[?25h[?25l[1;14H[K[1;14H[?25h[?25l[1;13H[K[1;13H[?25h[?25lb[?25h[?25l=[?25h[?25l[1;14H[K[1;14H[?25h[?25l[1;13H[K[1;13H[?25h[?25l[1;12H[K[1;12H[?25h[?25lb[?25h[?25la[?25h[?25ls[?25h[?25lh[?25h[?25l
-[38;5;130m  2 [m[2;5H[K[2;5H[?25h[?25l
-[38;5;130m  3 [m[3;5H[K[3;5H[?25h[?25le[?25h[?25la[?25h[?25lc[?25h[?25l[3;7H[K[3;7H[?25h[?25l[3;6H[K[3;6H[?25h[?25lo[?25h[?25lc[?25h[?25lh[?25h[?25l[3;8H[K[3;8H[?25h[?25l[3;7H[K[3;7H[?25h[?25l[3;6H[K[3;6H[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25ld[?25h[?25la[?25h[?25lt[?25h[?25le[?25h[?25l[3;13H[K[3;13H[?25h[?25l[3;12H[K[3;12H[?25h[?25l[3;11H[K[3;11H[?25h[?25l[3;10H[K[3;10H[?25h[?25ld[?25h[?25la[?25h[?25lt[?25h[?25le[?25h[?25l
-[38;5;130m  4 [m[4;5H[K[4;5H[?25h[?25le[?25h[?25la[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l$[?25h[?25lH[?25h[?25lO[?25h[?25lM[?25h[?25lE[?25h[?25l
-[38;5;130m  5 [m[5;5H[K[5;5H[?25h[4;5Hea[?25lcho $HOME[4;15H[K[4;6H[?25h[5;5H[?25le[?25h[?25lc[?25h[?25lh[?25h[?25lo[?25h[?25l [?25h[?25l%[?25h[?25lP[?25h[?25l[5;11H[K[5;11H[?25h[?25l[5;10H[K[5;10H[?25h[?25l$[?25h[?25lP[?25h[?25lA[?25h[?25lT[?25h[?25lH[?25h[?25l
-[38;5;130m  6 [m[6;5H[K[6;5H[?25h[24;1H[K[6;5H[?25l[?25h[?2004l[>4;m[?25l[24;1H"c8L2" [New] 6L, 46B written[23;2t[23;1t
-[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@Tylers-MBP Unix Terminal Scripts % [K[?2004hPPS!=  1='\n u \$ '[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[J\u \$ [K[?2004hcchn mod u+x c8L2[1m [0m[0m [?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[J\u \$ [K[?2004h../c8L2[1m [0m[0m [?2004l
-date
-/Users/tyslu
-/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[J\u \$ [K[?2004hvvim c8L2[1m [0m[0m [?2004l
-[?1049h[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H"c8L2" 6L, 46B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[38;5;130m  1 [m[34m#!/bin/bash[m
-[38;5;130m  2 [m[2;5H[K[3;1H[38;5;130m  3 echo[m[31m date[m[3;14H[K[4;1H[38;5;130m  4 echo[m[31m [m[35m$HOME[m
-[38;5;130m  5 echo[m[31m [m[35m$PATH[m
-[38;5;130m  6 [m
-[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;5H[?25h[?4m[2;5H[3;5H[1C[1C[1C[1C[1C[3C[?25l[m[24;1H[1m-- INSERT --[m[24;13H[K[3;9H[?25h[1C[?25l[35m$date[?25hdate[m[24;1H[K[3;14H[?25l[?25h[?2004l[>4;m[?25l[24;1H"c8L2" 6L, 47B written[23;2t[23;1t
-[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[J\u \$ [K[?2004hvim c8L2[8D./c8L2  [?2004l
-
-/Users/tyslu
-/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[J\u \$ [K[?2004hvvim c8L2[1m [0m[0m [?2004l
-[?1049h[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H"c8L2" 6L, 47B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1H[38;5;130m  1 [m[34m#!/bin/bash[m
-[38;5;130m  2 [m[2;5H[K[3;1H[38;5;130m  3 echo[m[31m [m[35m$date[m[3;15H[K[4;1H[38;5;130m  4 echo[m[31m [m[35m$HOME[m
-[38;5;130m  5 echo[m[31m [m[35m$PATH[m
-[38;5;130m  6 [m
-[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;5H[?25h[?4m[?25l[m[24;1H[1m-- INSERT --[m[24;13H[K[1;5H[?25h[2;5H[3;5H[1C[1C[1C[1C[1C[1C[?25l[31mdate[m[3;14H[K[3;10H[?25h[?25lechodate[3;13H[K[3;9H[?25h[?25ldate[3;12H[K[3;8H[?25h[?25ldate[3;11H[K[3;7H[?25h[?25ldate[3;10H[K[3;6H[?25h[?25ldate[3;9H[K[3;5H[?25h[?25l[2;5Hdate[3;5H[38;5;130mecho[m[31m [m[35m$HOME[4;11HPATH[m[5;5H[K[6;1H[94m~                                                                               [2;5H[?25h[?25l[m[2;5H[K[3;5Hdate[3;9H[K[4;11H[35mHOME[m[5;5H[38;5;130mecho[m[31m [m[35m$PATH[m
-[38;5;130m  6 [m[6;5H[K[3;5H[?25h[24;1H[K[3;5H[?25l[?25h[?2004l[>4;m[?25l[24;1H"c8L2" 6L, 41B written[23;2t[23;1t
-[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[J\u \$ [K[?2004hvim c8L2[8D./c8L2  [?2004l
-Thu Mar  2 19:20:39 EST 2023
-/Users/tyslu
-/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[J\u \$ [K[?2004hPPS1+ ='\h \$'[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[J\h \$[K[?2004heexit[?2004l
-
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-
-Script done on Thu Mar  2 19:21:12 2023

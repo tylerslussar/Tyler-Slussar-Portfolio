@@ -1,36 +1,0 @@
-Script started on Thu Mar 16 11:19:48 2023
-Restored session: Thu Mar 16 11:16:45 EDT 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../Ceh  heckExistence[1m [0m[0m [?2004l
- exist
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./CheckExistence pizza[?2004l
-pizza exist
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./CheckExistence pizza     bread[?2004l
-file does not exit
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004hlls bread[?2004l
-bread
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../Command[1m [0m[0m [?2004l
-enter a command : 
-Where is your input?
-enter a command : echo hi
-You entered: echo hi
-hi
-enter a command : exit
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../FizzBuzz[1m [0m[0m [?2004l
-enter a number : 6
-fizz
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./FizzBuzz[?2004l
-enter a number : 10
-buzz
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./FizzBuzz1 [?2004l
-enter a number : 15
-fizzbuzz
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./FizzBuzz[?2004l
-enter a number : 8
-8
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004heexit[?2004l
-
-Saving session...
-...saving history...truncating history files...
-...completed.
-
-Script done on Thu Mar 16 11:20:42 2023

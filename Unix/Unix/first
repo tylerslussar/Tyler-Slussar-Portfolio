@@ -1,5 +1,0 @@
-#!/bin/bash
-
-echo "first argument: $1"
-# this displays the first argument
-

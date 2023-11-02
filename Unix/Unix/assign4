@@ -1,61 +1,0 @@
-Script started on Thu Feb  2 10:04:59 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccd ..[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hppwd[?2004l
-/Users/tyslu
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hmmkdir two[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hffile two[?2004l
-two: directory
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hccsc cd two[1m/[0m[0m [?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/two[0m[27m[24m[Jtyslu@tylers-mbp two % [K[?2004hppwd[?2004l
-/Users/tyslu/two
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/two[0m[27m[24m[Jtyslu@tylers-mbp two % [K[?2004hvvim fox[?2004l
-[?1049h[>4;2m[?1h=[?2004h[?1004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H"fox" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?25l[m[24;1H[1m-- INSERT --[1;1H[?25h[?25l[mT[?25h[?25lj[?25h[?25l[1;2H[K[1;2H[?25h[?25lh[?25h[?25li[?25h[?25ls[?25h[?25l [?25h[?25li[?25h[?25ls[?25h[?25l [?25h[?25lf[?25h[?25lo[?25h[?25lr[?25h[?25l [?25h[?25la[?25h[?25ls[?25h[?25ls[?25h[?25li[?25h[?25lg[?25h[?25ln[?25h[?25lm[?25h[?25le[?25h[?25ln[?25h[?25lt[?25h[?25l [?25h[?25l4[?25h[?25l.[?25h[?25l[2;1H[K[2;1H[?25h[24;1H[K[2;1H[?25l[?25h[?2004l[>4;m[?25l[24;1H"fox" [New] 2L, 27B written[23;2t[23;1t
-[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/two[0m[27m[24m[Jtyslu@tylers-mbp two % [K[?2004hlls[?2004l
-fox
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/two[0m[27m[24m[Jtyslu@tylers-mbp two % [K[?2004hlls fox[1m [0m[0m fox[1m [0m[0m fox[1m [0m[0m          l  ccd ~[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hlls tow  wo[1m/[0m[0m [?2004l
-fox
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hlls two[?2004l
-fox
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hlls l  ccd two[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/two[0m[27m[24m[Jtyslu@tylers-mbp two % [K[?2004hlls .[?2004l
-fox
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/two[0m[27m[24m[Jtyslu@tylers-mbp two % [K[?2004hcccd  c cd ..[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hrrer rmdir two[?2004l
-rmdir: two: Directory not empty
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hrrm two/fox[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hrrmdir two[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hlls[?2004l
-Applications			Pictures
-Desktop				Port
-Documents			Public
-Downloads			Unix Terminal Scripts
-Exercises			eclipse
-Google Drive			eclipse-workspace
-Library				java-2021-12
-Movies				java_error_in_pycharm.hprof
-Music				java_error_in_pycharm_15200.log
-OneDrive			rust
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004httouch dog[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hlls dog[?2004l
-dog
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hlls -l dog[?2004l
--rw-r--r--  1 tyslu  staff  0 Feb  2 10:08 dog
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hccjc chmos d g-r o-r dog[?2004l
-chmod: o-r: No such file or directory
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hcchmod g-r dog[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hccho mod o - -r dog[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hlls -l dog[?2004l
--rw-------  1 tyslu  staff  0 Feb  2 10:08 dog
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hcchmod a=r dog[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hlls -l dog[?2004l
--r--r--r--  1 tyslu  staff  0 Feb  2 10:08 dog
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004heexit[?2004l
-
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-Deleting expired sessions...       6 completed.
-
-Script done on Thu Feb  2 10:17:04 2023

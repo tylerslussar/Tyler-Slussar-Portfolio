@@ -1,69 +1,0 @@
-Script started on Thu Mar 23 10:24:21 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../Cp,,   ommandMenu[1m [0m[0m [?2004l
-Welcome to Command Menu!
-D or d for printing date
-U or u for printing online usernames
-W or w for printing current working directory
-L or l for listing all the directories and files under current directory
-Q or q for qutting the program
-
-Please enter a letter: d
-Thu Mar 23 10:24:38 EDT 2023
-Please enter a letter: D
-Thu Mar 23 10:24:39 EDT 2023
-Please enter a letter: u
-tyslu
-Please enter a letter: U
-tyslu
-Please enter a letter: w
-/Users/tyslu/Unix
-Please enter a letter: W
-/Users/tyslu/Unix
-Please enter a letter: l
-CheckExistence		assign9			helloInClass
-Command			bakExtension		hi there
-CommandMenu		bin			hi there.bak
-FizzBuzz		bread			inClass2
-Guessname		c8L2			inClass6
-Permissions		compermissions		inclassexe5
-assign3			cpuUsage		ls.out
-assign4			days			message
-assign5			first			pizza
-assign6			first.bak		practice
-assign7			hello			shellScriptDemos
-assign7P2		hello there		short
-assign8			hello.bak		there
-Please enter a letter: L
-CheckExistence		assign9			helloInClass
-Command			bakExtension		hi there
-CommandMenu		bin			hi there.bak
-FizzBuzz		bread			inClass2
-Guessname		c8L2			inClass6
-Permissions		compermissions		inclassexe5
-assign3			cpuUsage		ls.out
-assign4			days			message
-assign5			first			pizza
-assign6			first.bak		practice
-assign7			hello			shellScriptDemos
-assign7P2		hello there		short
-assign8			hello.bak		there
-Please enter a letter: q
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../Permissions[1m [0m[0m pizza message[?2004l
--rw-r--r--
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./Permissions pizza message       firsgt  t[?2004l
-pizza: -rw-r--r--
-first: -rwxr--r--
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../Guessname[1m [0m[0m [?2004l
-one argument needed
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./Guessname taco[?2004l
-Enter a name: pizza
-Enter a name: gate orade
-Enter a name: radio
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004heexit[?2004l
-
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-
-Script done on Thu Mar 23 10:26:16 2023

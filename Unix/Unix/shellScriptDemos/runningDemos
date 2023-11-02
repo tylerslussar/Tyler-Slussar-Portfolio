@@ -1,74 +1,0 @@
-Script started on Wed Mar  1 23:54:34 2023
-Restored session: Wed Mar  1 23:09:15 EST 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo1[?2004l
-What is your name? Tyler
-Hello Tyler
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo2[?2004l
-5 + 4 = 9
-5 - 4 = 1
-5 * 4 = 20
-5 / 4 = 1
-5 ** 4 = 625
-5 % 4 = 1
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo3[?2004l
-How old are you? 16
-You can drive
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo3_2[?2004l
-Enter a number : 8
-It is less than 10
-It is even
-8 is between 1 and 10
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo4[?2004l
- exists but is null
-Sunny Saturday is not equal to Cloudy Monday
-Sunny Saturday is greater then Cloudy Monday
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo5[?2004l
-How old are you : 12
-Go to grade 7
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo6[?2004l
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo7[?2004l
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo8[?2004l
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004h../demo9 10 20 30[?2004l
-This is ./demo9
-first argument: 10
-second argument: 20
-third argument: 30
-sum is 60
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Tylers-MBP.lan/Users/tyslu/Unix%20Terminal%20Scripts/shellScriptDemos[0m[27m[24m[Jtyslu@Tylers-MBP shellScriptDemos % [K[?2004heexit[?2004l
-
-Saving session...
-...saving history...truncating history files...
-...completed.
-
-Script done on Wed Mar  1 23:55:55 2023

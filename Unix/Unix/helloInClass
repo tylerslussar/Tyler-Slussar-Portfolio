@@ -1,0 +1,37 @@
+Script started on Wed Feb  8 14:39:20 2023
+[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccd ~[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004h../hello[?2004l
+Hello tyslu
+You are in /Users/tyslu
+It has files:
+total 3328672
+drwx------@   3 tyslu  staff          96 May 27  2022 Applications
+drwx------@  12 tyslu  staff         384 Feb  8 14:23 Desktop
+drwx------@  12 tyslu  staff         384 Jan 31 01:56 Documents
+drwx------+ 138 tyslu  staff        4416 Feb  8 13:57 Downloads
+drwxr-xr-x    5 tyslu  staff         160 Jan 25 17:38 Exercises
+lrwx------    1 tyslu  staff          20 Apr 26  2022 Google Drive -> /Volumes/GoogleDrive
+drwx------@ 103 tyslu  staff        3296 Feb  7 16:30 Library
+drwx------    4 tyslu  staff         128 Dec 27  2021 Movies
+drwx------+   4 tyslu  staff         128 Dec 27  2021 Music
+lrwxr-xr-x    1 tyslu  staff          51 Feb  7  2022 OneDrive -> /Users/tyslu/Library/CloudStorage/OneDrive-Personal
+drwx------+   4 tyslu  staff         128 Dec 27  2021 Pictures
+drwxr-xr-x    2 tyslu  staff          64 Sep  6 19:00 Port
+drwxr-xr-x+   4 tyslu  staff         128 Dec 27  2021 Public
+drwxr-xr-x    8 tyslu  staff         256 Feb  8 14:39 Unix Terminal Scripts
+drwxr-xr-x    3 tyslu  staff          96 Feb  9  2022 eclipse
+drwxr-xr-x   10 tyslu  staff         320 Apr 21  2022 eclipse-workspace
+-rwxr--r--    1 tyslu  staff          80 Feb  8 14:35 hello
+drwxr-xr-x    3 tyslu  staff          96 Feb 24  2022 java-2021-12
+-rw-------    1 tyslu  staff  1704045164 Jun  3  2022 java_error_in_pycharm.hprof
+-rw-r--r--    1 tyslu  staff      228856 Jun 15  2022 java_error_in_pycharm_15200.log
+-rw-r--r--    1 tyslu  staff           0 Sep  7 01:33 rust
+[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...       8 completed.
+
+Script done on Wed Feb  8 14:39:29 2023

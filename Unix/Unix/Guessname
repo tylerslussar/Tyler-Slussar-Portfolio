@@ -1,0 +1,30 @@
+#!/bin/bash
+
+secret="radio"
+
+if [ "$1" ]; then
+	
+	if [[ "$1" == "$secret" ]]; then 
+		exit
+
+	else
+		read -p "Enter a name: " name
+
+ 	while [[ "$name" != "$secret" ]]; do
+		read -p "Enter a name: " name
+
+		if [[ "$name" != "$secret" ]]; then
+			read -p "Enter a name: " name
+		else
+			exit
+		fi
+
+	done
+	fi
+
+else
+	echo "one argument needed"
+
+fi
+
+

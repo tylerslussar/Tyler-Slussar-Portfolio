@@ -1,0 +1,17 @@
+#!/bin/bash
+
+read -p "enter a number : " num
+
+if (( num % 5 == 0 )) && (( num % 3 == 0 )); then
+	echo fizzbuzz
+
+elif (( num % 3 == 0 )); then
+	echo fizz
+
+elif (( num % 5 == 0 )); then
+	echo buzz
+
+else
+	echo $num
+
+fi 

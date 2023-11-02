@@ -1,0 +1,19 @@
+#!/bin/bash
+
+
+sum=0
+count=0 
+firstCount=$#
+
+while (( $count < $firstCount )); do
+
+	sum=$((sum + $1))
+	count=$(( count + 1 ))
+
+	shift 1
+
+done
+
+echo "$sum"
+
+	

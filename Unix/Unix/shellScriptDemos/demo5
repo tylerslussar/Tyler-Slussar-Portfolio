@@ -1,0 +1,23 @@
+#!/bin/bash
+
+read -p "How old are you : " age
+
+case $age in
+
+[0-4])
+	echo "Too young for school"
+				;;
+5)
+	echo "Go to kindergarten"
+				;;
+[6-9]|1[0-8])
+	grade=$((age-5))
+	echo "Go to grade $grade"
+		  	;;
+
+*)
+	echo "You are to old for school"
+		  	;;
+
+esac
+

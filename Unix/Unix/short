@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 'hi there'
+# this will display 'hi there'

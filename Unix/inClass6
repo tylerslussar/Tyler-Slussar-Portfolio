@@ -1,51 +1,0 @@
-Script started on Wed Mar 15 13:55:20 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho 4 $person         e  ppersonn \ =max[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $person[?2004l
-max
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho "$persoin   i on"[?2004l
-max
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecgo  ho '$persoi  on'[?2004l
-$person
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $person[?2004l
-max
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hpperson="max and zs ax ch"[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $person[?2004l
-max and zach
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hpperson= max and zach[?2004l
-zsh: command not found: max
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hpperson=m,a   max and zach[?2004l
-zsh: command not found: and
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecj ho $HOME[?2004l
-/Users/tyslu
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho ~[?2004l
-/Users/tyslu
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $PATH[?2004l
-/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $PWD[?2004l
-/Users/tyslu/Unix Terminal Scripts
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $USER[?2004l
-tyslu
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $PS1[?2004l
-%n@%m %1~ %# 
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $(pwd)[?2004l
-/Users/tyslu/Unix Terminal Scripts
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004h$$(( 60 * 60))[?2004l
-zsh: command not found: 3600
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hxx=23[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004h33cho  3 3e3  eecho $(( x * 2))[?2004l
-46
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hxx=23[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004h(((x=x*2 + 4))[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho x[?2004l
-x
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho $x[?2004l
-50
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heexit[?2004l
-
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-Deleting expired sessions...      16 completed.
-
-Script done on Wed Mar 15 13:59:18 2023

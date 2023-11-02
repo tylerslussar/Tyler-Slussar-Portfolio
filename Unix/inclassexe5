@@ -1,65 +1,0 @@
-Script started on Wed Feb 22 14:37:33 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004httop[?2004l
-[?1049h[1;24r(B[m[4l[?7h[?1034h[?1h=[H[2JProcesses: 385 total, 2 running, 383 sleeping, 2015 threads[1;72H14:37:35[2dLoad Avg: 1.96, 1.91, 2.42  CPU usage: 7.29% user, 13.54% sys, 79.16% idle[3dSharedLibs: 428M resident, 86M data, 25M linkedit.[4dMemRegions: 95152 total, 1725M resident, 153M private, 889M shared.[5dPhysMem: 7527M used (1454M wired, 2503M compressor), 124M unused.[6dVM: 147T vsize, 4171M framework vsize, 343007(0) swapins, 439888(0) swapouts.[7dNetworks: packets: 11714219/10G in, 4666716/1513M out.[8dDisks: 19894958/379G read, 11489984/193G written.[10dPID    COMMAND[21G(B[0;7m%CPU(B[m TIME     #TH   #WQ  #POR MEM   PURG  CMPRS PGRP  PPID[11d43868  top[11;21H0.0  00:00.12 1/1   0    16   4833K 0B    0B    43868 43864[12d43864  zsh[12;21H0.0  00:00.02 1     0    22   2321K 0B    0B    43864 43863[13d43863  script[21G0.0  00:00.00 1     0    15   1281K 0B    0B    43863 43856[14d43856  zsh[14;21H0.0  00:00.01 1     0    22   2817K 0B    0B    43856 43855[15d43855  login[15;21H0.0  00:00.01 2     1    31   2513K 0B    0B    43855 43515[16d43825  mdworker_sha 0.0  00:00.10 4     1    59   2769K 0B    512K  43825 1[17d43823  mdworker_sha 0.0  00:00.07 3     1    51   2529K 0B    720K  43823 1[18d43819  OneDrive Fil 0.0  00:01.08 9     5    139  10M   4320K 2368K 43819 1[19d43818  spindump_age 0.0  00:00.01 2     1    33   1745K 0B    1152K 43818 1[20d43817  spindump     0.0  00:00.03 3     2    35   2593K 0B    2160K 43817 1[21d43814  mdworker_sha 0.0  00:00.12 3     1    51   2561K 0B    704K  43814 1[22d43801  helpd[22;21H0.0  00:00.49 2     1    49   5185K 0B    144K  43801 1[23d43716  MTLCompilerS 0.0  00:00.09 2     1    36   6705K 0B    6288K 43716 1[24d43699  WeatherWidge 0.0  00:00.27 7     6/3  131  15M   0B    15M   43699 1[1;23H3[1;36H2[1;51H4[79G6[2;40H3[2;52H2.70% sys, 94.0[2P[5;13H9[5;24H40[5;56H3[7;26H55[7;42H47[8;14H76[8;34H90[10;50HT MEM    PURG   CMPRS  PGRP[K[11d0      kernel_task  5.4  03:02:46 513/8[46G0     56M    0B     0B     0[K[12;5H8  top[12;21H5.3[12;32H18 1/1[12;47H7+   6049K+ 0B     0B     43868[K[13;3H551  Microsoft Wo 4.9  00:52.04 57    16   872+  288M+  5584K  142M-  43551[K[14d22702  OneDrive     4.2  06:31.61 16    3    320   91M    544K   50M-   22702[K[15d387    WindowServer 3.7  03:14:03 26    8    4291- 1083M- 23M+   287M-  387[K[16d378    bluetoothd   2.5  30:30.13 13    7    373   57M    192K   36M    378[17d40355  Microsoft Po 2.5  07:15.74 70    16   2404  412M   128K   311M   40355[18d16360  wifip2pd     2.2  03:47.28 3     2    67    3809K  0B     1120K  16360[19;3H515  Terminal     1.6[30G7.69 10/1  5    293+  44M-   6272K+ 6928K- 43515[20d40428  VTDecoderXPC 1.4  02:11.34 7     3    88    15M    0B     2480K  40428[21d40301  zoom.us      1.2  09:56.20 24    3    1011  189M   0B     158M-  40301[22d594    trustd[21G1.0  13:10.52 3     2    240   14M    832K   5728K  594[23d345    mds          1.0  14:10.24 7     4    1584  43M    0B     26M    345[24d673    mds_stores   0.8  16:25.12 5     3    123   42M+   0B     15M    673[1;50H25[79G7[2;40H6.18[2;52H3.56[2;64H0.24% idle[5;12H43[5;24H86[5;38H0[5;55H09[6;44H11(4[7;26H69[7;42H62[8;14H8[8;35H8[11d39840  WiFiSettings 9.7  09:00.40 4     2    373   58M+[11;66H25M    39840[12d364    locationd    9.4  37:30.47 8/1   5/1  280+  14M    48K    5008K  364[K[13d387    WindowServer 8.8  03:14:03 27    8    4293+ 1086M+ 19M-   287M-  387[K[14d0      kernel_task  6.6  03:02:46 513/8 0    0     56M    0B     0B     0[K[15d43868  top          4.5  00:00.23 1/1   0    27    6081K+ 0B     0B     43868[16d584    ControlStrip 4.2  01:45.98 6     3    415+  35M+   544K+  20M-   584[17d429    airportd     3.3  44:32.37 10    8    4617  28M    0B     15M    429[K[18d40355  Microsoft Po 3.0  07:15.77 70    16   2404  412M   128K   311M   40355[19d42666  com.apple.We 2.8  02:15.82 7     3    100   489M   0B     362M   42666[20d43515  Terminal     2.7  00:07.72 10    5    292-  38M-   6224K- 6928K  43515[21d378    bluetoothd   2.3  30:30.15 13    7    373   57M    192K   36M-   378[K[22d16360  wifip2pd[23G9  03:47.30[22;46H67    3809K  0B     1120K  16360[23d507    searchpartyd 1.9  08:14.11 8     6    129   8865K  288K   4304K  507[24d40428  VTDecoderXPC 1.7  02:11.35 7[24;46H88    15M [24;66H2480K  40428[24;1H[?1049l[?1l>
-zsh: suspended  top
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004heecho $USRR  ER[?2004l
-tyslu
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hpps -u u tty  yslu | tail -5[?2004l
-  501 43863 ttys000    0:00.01 script inclassexe5
-  501 43864 ttys001    0:00.03 /bin/zsh -i
-    0 43868 ttys001    0:00.24 top
-    0 43873 ttys001    0:00.01 ps -u tyslu
-  501 43874 ttys001    0:00.00 tail -5
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hkkill 43868[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hkill 43868[10Dps -u tyslu | tail -5[?2004l
-  501 43863 ttys000    0:00.01 script inclassexe5
-  501 43864 ttys001    0:00.03 /bin/zsh -i
-    0 43868 ttys001    0:00.24 top
-    0 43892 ttys001    0:00.01 ps -u tyslu
-  501 43893 ttys001    0:00.00 tail -5
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hkkill -9 43868[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004h
-[1]  + killed     top
-[0m[27m[24m[Jtyslu@tylers-mbp ~ % [Kkill -9 43868[13Dps -u tyslu | tail -5[?2004l
-  501 43856 ttys000    0:00.01 -zsh
-  501 43863 ttys000    0:00.01 script inclassexe5
-  501 43864 ttys001    0:00.04 /bin/zsh -i
-    0 43905 ttys001    0:00.01 ps -u tyslu
-  501 43906 ttys001    0:00.00 tail -5
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004httop > cpuUsage[?2004l
-ps -t u tyslu | tail -5
-q q ^Z
-zsh: suspended  top > cpuUsage
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hppsp  top > cpuUsage[14Dps -u tyslu | tail -5[?2004l
-  501 43863 ttys000    0:00.02 script inclassexe5
-  501 43864 ttys001    0:00.05 /bin/zsh -i
-    0 43952 ttys001    0:04.23 top
-    0 43986 ttys001    0:00.01 ps -u tyslu
-  501 43987 ttys001    0:00.00 tail -5
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hkkill - 9 43952[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004h
-[1]  + killed     top > cpuUsage
-[0m[27m[24m[Jtyslu@tylers-mbp ~ % [Kttop& > cpuUsage[?2004l
-[1] 44012
-[1]  + suspended (tty output)  top
-top     echo hello
-^C
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004heecho hi[?2004l
-hi
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hecho hitop& > cpuUsage[15Dkill -9 43952  [13Dps -u tyslu | tail -5[?2004l
-  501 43863 ttys000    0:00.03 script inclassexe5
-  501 43864 ttys001    0:00.06 /bin/zsh -i
-    0 44012 ttys001    0:00.01 top
-    0 44018 ttys001    0:00.01 ps -u tyslu
-  501 44019 ttys001    0:00.00 tail -5
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004hkkill - 9 9 44012[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu[0m[27m[24m[Jtyslu@tylers-mbp ~ % [K[?2004h
-[1]  + killed     top
-[0m[27m[24m[Jtyslu@tylers-mbp ~ % [Keexit[?2004l
-
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-
-Script done on Wed Feb 22 14:44:25 2023

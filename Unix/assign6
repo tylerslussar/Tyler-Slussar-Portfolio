@@ -1,107 +1,0 @@
-Script started on Thu Feb 16 12:55:23 2023
-Restored session: Thu Feb 16 12:54:02 EST 2023
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho he i there[?2004l
-hi there
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hecho hi there[?2004l
-hi there
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004h^^hi^hello& ^[?2004l
-echo hello there
-hello there
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hlls /usr/bin/*ab*[?2004l
-/usr/bin/crontab	/usr/bin/iptab5.30	/usr/bin/tab2space
-/usr/bin/iptab		/usr/bin/snmptable	/usr/bin/tabs
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hlls /usr/bin/u*[?2004l
-/usr/bin/ul				/usr/bin/update_dyld_shared_cache
-/usr/bin/ulimit				/usr/bin/update_mcdp29xx
-/usr/bin/umask				/usr/bin/uptime
-/usr/bin/umtool				/usr/bin/usbcfwflasher
-/usr/bin/unalias			/usr/bin/users
-/usr/bin/uname				/usr/bin/uttype
-/usr/bin/uncompress			/usr/bin/uucp
-/usr/bin/unexpand			/usr/bin/uudecode
-/usr/bin/unifdef			/usr/bin/uuencode
-/usr/bin/unifdefall			/usr/bin/uuidgen
-/usr/bin/uniq				/usr/bin/uulog
-/usr/bin/units				/usr/bin/uuname
-/usr/bin/unpack200			/usr/bin/uupick
-/usr/bin/unvis				/usr/bin/uustat
-/usr/bin/unzip				/usr/bin/uuto
-/usr/bin/unzipsfx			/usr/bin/uux
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hlls /usr/bin/*un[?2004l
-/usr/bin/xcrun
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hlls /usr/bin/un*[?2004l
-/usr/bin/unalias	/usr/bin/unifdef	/usr/bin/unpack200
-/usr/bin/uname		/usr/bin/unifdefall	/usr/bin/unvis
-/usr/bin/uncompress	/usr/bin/uniq		/usr/bin/unzip
-/usr/bin/unexpand	/usr/bin/units		/usr/bin/unzipsfx
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hlls /usr/bin/?[?2004l
-/usr/bin/w
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat[?2004l
-hi there
-hi there
-^D[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heecho hello there > message[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat message[?2004l
-hello there
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat > message[?2004l
-this is so cool!
-^D[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat message[?2004l
-this is so cool!
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hlls -l > ls.out[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat ls.out[?2004l
-total 344
--rw-r--r--@ 1 tyslu  staff  92128 Jan 27 11:28 assign3
--rw-r--r--  1 tyslu  staff   9971 Feb  2 10:17 assign4
--rw-r--r--@ 1 tyslu  staff  10835 Feb  9 17:11 assign5
--rw-r--r--  1 tyslu  staff   4672 Feb 16 12:57 assign6
--rw-r--r--  1 tyslu  staff   2497 Feb  8 14:39 helloInClass
--rw-r--r--@ 1 tyslu  staff  34160 Jan 25 18:03 inClass2
--rw-r--r--  1 tyslu  staff      0 Feb 16 12:58 ls.out
--rw-r--r--  1 tyslu  staff     17 Feb 16 12:57 message
--rw-r--r--@ 1 tyslu  staff     49 Jan 27 11:22 practice
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hwwhio  o >> ls.out[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat ls.out[?2004l
-total 344
--rw-r--r--@ 1 tyslu  staff  92128 Jan 27 11:28 assign3
--rw-r--r--  1 tyslu  staff   9971 Feb  2 10:17 assign4
--rw-r--r--@ 1 tyslu  staff  10835 Feb  9 17:11 assign5
--rw-r--r--  1 tyslu  staff   4672 Feb 16 12:57 assign6
--rw-r--r--  1 tyslu  staff   2497 Feb  8 14:39 helloInClass
--rw-r--r--@ 1 tyslu  staff  34160 Jan 25 18:03 inClass2
--rw-r--r--  1 tyslu  staff      0 Feb 16 12:58 ls.out
--rw-r--r--  1 tyslu  staff     17 Feb 16 12:57 message
--rw-r--r--@ 1 tyslu  staff     49 Jan 27 11:22 practice
-tyslu            console      Feb 15 17:08 
-tyslu            ttys000      Feb 16 12:42 
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hwwho > ls.out[?2004l
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat ls.out[?2004l
-tyslu            console      Feb 15 17:08 
-tyslu            ttys000      Feb 16 12:42 
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat > days[?2004l
-Sunday
-Mopn  nday
-Tuesday
-Wedneds  sday
-Thursday
-Friday  
-Saturday
-^D[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat days | sort[?2004l
-Friday
-Monday
-Saturday
-Sunday
-Thursday
-Tuesday
-Wednesday
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hccat days | grep T[?2004l
-Tuesday
-Thursday
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004hcct c cat days | grept   R T | d sort[?2004l
-Thursday
-Tuesday
-[1m[7m%[27m[1m[0m                                                                                ]7;file://tylers-mbp.capital.edu/Users/tyslu/Unix%20Terminal%20Scripts[0m[27m[24m[Jtyslu@tylers-mbp Unix Terminal Scripts % [K[?2004heexit[?2004l
-
-Saving session...
-...saving history...truncating history files...
-...completed.
-
-Script done on Thu Feb 16 12:59:44 2023

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+if [ "$1" ]; then 
+	if [[ -d "$1" ]]; then
+		ls "$1" | wc -w
+	
+	elif [[ -f "$1" ]]; then 
+		ls -l "$1" | cut -f4 -d' '
+	
+	fi
+else
+	echo "enter one file or directory argument to either
+see how many files in the directory or the owner 
+of the file"
+fi

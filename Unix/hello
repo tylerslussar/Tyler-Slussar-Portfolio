@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "Hello $USER"
+echo "You are in $PWD"
+echo "It has files:"
+ls -l
+

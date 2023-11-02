@@ -1,0 +1,17 @@
+#!/bin/bash
+
+read -p "enter a command : " command
+
+while [ "$command" != "exit" ]; do
+
+if [ "$command" == "" ]; then
+	echo "Where is your input?"
+
+else 
+	echo "You entered: $command"
+	$command
+fi
+
+read -p "enter a command : " command
+
+done

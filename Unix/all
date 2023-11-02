@@ -1,0 +1,16 @@
+#!/bin/bash
+
+
+if [ "$1" ]; then
+	echo "This script was called as $0"
+	echo "The first argument is $1"
+	if [ "$2" ]; then
+		echo "The second argument is $2"
+		if [ "$3" ]; then
+			echo "The third argument is $3"
+		fi
+	fi
+
+else
+	echo "You must provide at least one argument."
+fi

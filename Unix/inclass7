@@ -1,0 +1,46 @@
+Script started on Wed Mar 29 17:46:04 2023
+Restored session: Wed Mar 29 17:43:50 EDT 2023
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../choice[?2004l
+Enter A, B, or C: 
+You did not enter A, B, or C.
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./choice[?2004l
+Enter A, B, or C: A
+You entered A.
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../all[?2004l
+You must provide at least one argument.
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./all 1 2 3[?2004l
+This script was called as ./all
+The first argument is 1
+The second argument is 2
+The third argument is 3
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./all 1 2 3      myname[?2004l
+enter a string: hi ya
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004hccat tyslu.name[1m [0m[0m [?2004l
+hi ya
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004hcat tyslu.name           c  ../countup[1m [0m[0m [?2004l
+Give one argument to get an ascending orders from 1 to argument value
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./countup 5[?2004l
+1
+2
+3
+4
+5
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../addall 12  2 3[?2004l
+6
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./addall 1 2 3   2 4 6[?2004l
+12
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h../check[?2004l
+enter one file or directory argument to either
+see how many files in the directory or the owner 
+of the file
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./check shellScriptDemos[1m/[0m[0m [?2004l
+      11
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004h./check shellScriptDemos                pizza[?2004l
+tyslu
+[1m[7m%[27m[1m[0m                                                                                          ]7;file://tylers-mbp.lan/Users/tyslu/Unix[0m[27m[24m[Jtyslu@tylers-mbp Unix % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed Mar 29 17:47:34 2023
